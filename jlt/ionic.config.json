@@ -1,0 +1,7 @@
+{
+  "name": "jlt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
